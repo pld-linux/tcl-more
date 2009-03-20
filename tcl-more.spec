@@ -2,7 +2,7 @@
 Summary:	A C language extension library for TCL
 Name:		tcl-more
 Version:	0.7
-Release:	0.1
+Release:	1
 License:	distributable
 Group:		Development/Languages/Tcl
 Source0:	http://download.gna.org/tclmore/0.7/tclmore_%{version}b1_src.tar.gz
